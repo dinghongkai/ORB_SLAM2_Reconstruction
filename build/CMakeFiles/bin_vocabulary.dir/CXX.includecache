@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/tools/bin_vocabulary.cc
+time.h
+-
+ORBVocabulary.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/tools/ORBVocabulary.h
+

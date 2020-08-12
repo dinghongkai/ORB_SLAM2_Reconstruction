@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/convert_sba_slam3d.cpp
+iostream
+-
+fstream
+-
+g2o/stuff/macros.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/stuff/macros.h
+g2o/stuff/command_args.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/stuff/command_args.h
+g2o/core/optimizable_graph.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/core/optimizable_graph.h
+g2o/types/sba/types_sba.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/types/sba/types_sba.h
+g2o/types/slam3d/parameter_camera.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/types/slam3d/parameter_camera.h
+g2o/types/slam3d/edge_se3_pointxyz_disparity.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/data_convert/g2o/types/slam3d/edge_se3_pointxyz_disparity.h
+

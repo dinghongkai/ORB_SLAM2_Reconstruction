@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/simulator_3d_plane.cpp
+fstream
+-
+g2o/core/sparse_optimizer.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/core/sparse_optimizer.h
+g2o/solvers/pcg/linear_solver_pcg.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/solvers/pcg/linear_solver_pcg.h
+g2o/core/block_solver.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/core/block_solver.h
+g2o/core/linear_solver.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/core/linear_solver.h
+g2o/core/optimization_algorithm_factory.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/core/optimization_algorithm_factory.h
+g2o/types/slam3d/types_slam3d.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/types/slam3d/types_slam3d.h
+g2o/types/slam3d_addons/types_slam3d_addons.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/types/slam3d_addons/types_slam3d_addons.h
+g2o/stuff/macros.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/stuff/macros.h
+g2o/stuff/command_args.h
+/home/hongkai/disk/project/slam/ORB_SLAM2_Reconstruction/Thirdparty/g2o/g2o/examples/plane_slam/g2o/stuff/command_args.h
+iostream
+-
+
